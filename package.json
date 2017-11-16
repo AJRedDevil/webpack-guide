@@ -1,0 +1,26 @@
+{
+  "name": "webpack-guide",
+  "version": "0.1.0",
+  "description": "Installation and advance guide on using webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@gitlab.com/AJRedDevil/webpack-guide.git"
+  },
+  "keywords": [
+    "webpack",
+    "guide"
+  ],
+  "author": "Ajan Lal Shrestha <ajan.shresh@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://gitlab.com/AJRedDevil/webpack-guide/issues"
+  },
+  "homepage": "https://gitlab.com/AJRedDevil/webpack-guide#README",
+  "devDependencies": {
+    "webpack": "^3.8.1"
+  }
+}
